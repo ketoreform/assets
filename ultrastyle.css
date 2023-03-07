@@ -213,7 +213,7 @@ ul li:before{
 	content: '';
 	width: 25px;
 	height: 25px;
-	background: url ("https://cdn.ketoreform.com/star.png") center center no-repeat;
+	background: url ("star.png") center center no-repeat;
 }
 ol {
    list-style: none;
