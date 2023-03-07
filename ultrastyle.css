@@ -213,7 +213,7 @@ ul li:before{
 	content: '';
 	width: 25px;
 	height: 25px;
-	background: url(../images/star.png) center center no-repeat;
+	background: url(https://cdn.ketoreform.com/star.png) center center no-repeat;
 }
 ol {
    list-style: none;
@@ -355,7 +355,7 @@ ol li:before {
 }
 /* --------------------------- HEADER ---------------------------- */
 header{
-	background: url(../images/blkwood.png) center center repeat-y;
+	background: url(https://cdn.ketoreform.com/blkwood.png) center center repeat-y;
 	background-size: cover;
 	padding: 20px 0 0;
 	float: left;
@@ -380,7 +380,7 @@ header h1{
 
 /* --------------------------- VIDEO WRAPPER ---------------------------- */
 .video-holder{
-	background: url(../images/banner-bg.png) center center no-repeat;
+	background: url(https://cdn.ketoreform.com/banner-bg.png) center center no-repeat;
 	height: auto;
 	background-size: cover;
 	padding: 65px 0 69px;
@@ -419,7 +419,7 @@ header h1{
 .section-two{
 	float: left;
 	width: 100%;
-	background: url(../images/purplebk.png) center center repeat-y;
+	background: url(https://cdn.ketoreform.com/purplebk.png) center center repeat-y;
 	background-size: cover;
 	padding: 40px 0;
 	height: auto;
@@ -567,7 +567,7 @@ header h1{
 .section-four{
 	float: left;
 	width: 100%;
-	background: url(../images/purplebk.png) center center repeat-y;
+	background: url(https://cdn.ketoreform.com/purplebk.png) center center repeat-y;
 	background-size: cover;
 	padding: 45px 0 0;
 	height: auto;
@@ -676,7 +676,7 @@ header h1{
 }
 /* --------------------------- ZONE-FIVE ---------------------------- */
 .section-six{
-	background: url(../images/purplebk.png) top center repeat-y;
+	background: url(https://cdn.ketoreform.com/purplebk.png) top center repeat-y;
 	background-size: cover;
 	padding: 50px 0 50px;
 	height: auto;
@@ -941,7 +941,7 @@ header h1{
 footer{
 	float: left;
 	width: 100%;
-	background: url(../images/blkwood.png) top center repeat-y;
+	background: url(https://cdn.ketoreform.com/blkwood.png) top center repeat-y;
 	background-size: cover;
 	padding: 45px 0;
 }
